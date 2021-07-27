@@ -1,6 +1,6 @@
 # todo_list_ejercicio
 
-A new Flutter project.
+Aplicació para gestionar tareas a realizar.
 
 ## Getting Started
 
