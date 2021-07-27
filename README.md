@@ -1,6 +1,6 @@
 # todo_list_ejercicio
 
-Aplicació para gestionar tareas a realizar.
+Aplicación para gestionar tareas a realizar.
 
 ## Getting Started
 
